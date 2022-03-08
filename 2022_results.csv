@@ -1,9 +1,7 @@
 Runner,Lap,Start,End,Complete_Loop,Active
 Ed Furtaw (21),1,,2022-03-08 15:39,Yes,No
-Thomas Øderud (1),1,,,No,Yes
 Richard Sparks (1),1,,,No,Yes
 Rémy Jegard (5),1,,,No,Yes
-Paul Giblin (2),1,,,No,Yes
 Michael Brower (1),1,,,No,Yes
 Merijn Geerts (1),1,,,No,Yes
 Marina Kollassa (1),1,,,No,Yes
@@ -26,8 +24,11 @@ Albert Herrero (1),1,,,No,Yes
 Tomokazu Ihara (3),1,,,No,Yes
 Jodi Isenor (5),1,,,No,Yes
 Guillaume Calmettes (3),1,,,No,Yes
-Jasmin Paris (1),1,,,No,Yes
-Aaron Bradner (1),1,,,No,Yes
+Paul Giblin (2),1,,2022-03-08 16:21,Yes,Yes
+Aaron Bradner (1),1,,2022-03-08 16:12,Yes,Yes
+Thomas Øderud (1),1,,2022-03-08 16:12,Yes,Yes
+Jasmin Paris (1),1,,2022-03-08 16:17,Yes,Yes
+Jasmin Paris (1),2,2022-03-08 16:18,,No,Yes
 Thomas Dunkerbeck (1),1,,2022-03-08 15:26,Yes,Yes
 Thomas Dunkerbeck (1),2,2022-03-08 15:49,,No,Yes
 Harvey Lewis (1),1,,2022-03-08 15:18,Yes,Yes
