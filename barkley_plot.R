@@ -18,7 +18,7 @@ library(lubridate)  ## date wrangling
 # }), print = FALSE)
 
 ## load data
-d <- fread("https://raw.githubusercontent.com/johnsug/barkley_plots/main/2021_results.csv")
+d <- fread("https://raw.githubusercontent.com/johnsug/barkley_plots/main/data/2021_results.csv")
 
 ## tag if still active (manual updating)
 runners <- unique(d$Runner)
