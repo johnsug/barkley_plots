@@ -82,9 +82,9 @@ g <- ggplot(d) +
        caption="Created by John Sugden\nUsing tweets from @keithdunn") + 
   coord_flip() + 
   theme_bw() + 
-  theme(plot.title = element_text(hjust = 0.5, size=14, family="open sans"), 
-        plot.subtitle = element_text(hjust = 0.5, size=10, family="open sans"), 
-        text = element_text(family="open sans", size=10), 
+  theme(plot.title = element_text(hjust = 0.5, size=30, family="open_sans"), 
+        plot.subtitle = element_text(hjust = 0.5, size=20, family="open_sans"), 
+        text = element_text(family="open_sans", size=20), 
         legend.position = "none")
 
 ## preview
