@@ -1,3 +1,4 @@
+
 ## libraries
 library(Cairo)      ## prettier output
 library(data.table) ## data wrangling
@@ -7,7 +8,10 @@ library(grDevices)  ## anti-aliasing within RStudio
 library(lubridate)  ## date wrangling
 
 # ## import calibri (only need to run this one time)
-# font_import()
+library(showtext)
+font_add_google(name="Nunito", family="nunito")
+font_add_google(name="Open Sans", family="open sans")
+showtext_auto()
 
 # ## anti-alias (only need to run this once)
 # trace(grDevices::png, quote({
@@ -51,42 +55,41 @@ t0_min <- floor((t0 - floor(t0))*60)
 
 ## render plot
 g <- ggplot(d) + 
-      
-      # cut offs lines
-      geom_hline(yintercept=cut1) + 
-      geom_hline(yintercept=cut2) + 
-      geom_hline(yintercept=cut3) + 
-      
-      # plot segments (color depends on Active variable)
-      geom_segment(aes(x=Runner, xend=Runner, y=Start, yend=End, color=Active), size=2) + 
-      
-      # completed = end cap
-      geom_point(data=d[Complete=="Yes"], aes(x=Runner, y=End, color=Active), size=3) + 
-      
-      # DNF = open end cap
-      geom_point(data=d[Complete=="No"], aes(x=Runner, y=End, color=Active), size=3) +
-      geom_point(data=d[Complete=="No"], aes(x=Runner, y=End), color="white", size=1) + 
-      
-      # # fun run cutoff label
-      # #geom_text(data=data.frame(x="Jamil Coury", y=cut3), aes(x=x, y=y, label="Cutoff\n7:04 PM ET", hjust=1.1, vjust=1), size=3) + 
-      
-      # misc formatting
-      ylim(barkley_start, cut3) + 
-      scale_color_manual(values=c(Active="dodgerblue", Quit="red")) + 
-      labs(x="", y="", title="Barkley 2021 Tracker", 
-           #subtitle=paste0(t0_hr, " Hours, ", t0_min, " Minutes Remaining for Fun Run"), 
-           caption="Created by John Sugden\nUsing tweets from @keithdunn") + 
-      coord_flip() + 
-      theme_bw() + 
-      theme(plot.title = element_text(hjust = 0.5, size=14, family="Calibri"), 
-            plot.subtitle = element_text(hjust = 0.5, size=10, family="Calibri"), 
-            text = element_text(family="Calibri", size=10), 
-            legend.position = "none")
+  
+  # cut offs lines
+  geom_hline(yintercept=cut1) + 
+  geom_hline(yintercept=cut2) + 
+  geom_hline(yintercept=cut3) + 
+  
+  # plot segments (color depends on Active variable)
+  geom_segment(aes(x=Runner, xend=Runner, y=Start, yend=End, color=Active), size=1) + 
+  
+  # completed = end cap
+  geom_point(data=d[Complete=="Yes"], aes(x=Runner, y=End, color=Active), size=2) + 
+  
+  # DNF = open end cap
+  geom_point(data=d[Complete=="No"], aes(x=Runner, y=End, color=Active), size=2) +
+  geom_point(data=d[Complete=="No"], aes(x=Runner, y=End), color="white", size=.5) + 
+  
+  # # fun run cutoff label
+  # #geom_text(data=data.frame(x="Jamil Coury", y=cut3), aes(x=x, y=y, label="Cutoff\n7:04 PM ET", hjust=1.1, vjust=1), size=3) + 
+  
+  # misc formatting
+  ylim(barkley_start, cut3) + 
+  scale_color_manual(values=c(Active="dodgerblue", Quit="orange")) + 
+  labs(x="", y="", title="Barkley 2021 Tracker", 
+       #subtitle=paste0(t0_hr, " Hours, ", t0_min, " Minutes Remaining for Fun Run"), 
+       caption="Created by John Sugden\nUsing tweets from @keithdunn") + 
+  coord_flip() + 
+  theme_bw() + 
+  theme(plot.title = element_text(hjust = 0.5, size=14, family="open sans"), 
+        plot.subtitle = element_text(hjust = 0.5, size=10, family="open sans"), 
+        text = element_text(family="open sans", size=10), 
+        legend.position = "none")
 
 ## preview
 print(g)
 
 ## save out
 save_file <- paste0("barkley_", gsub(":", "", gsub(" ", "_", gsub("-", "", substr(current_time, 1, 16)))), ".png")
-ggsave(g, filename=save_file, dpi=125, type="cairo", width=4, height=4)
-
+ggsave(g, filename=save_file, dpi=125, type="cairo", width=6, height=6)
