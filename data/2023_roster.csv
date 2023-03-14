@@ -2,9 +2,9 @@ Name,CityState,Nation,Gender,Attempts
 Albert Herrero Casas,,Spain,M,2						
 Andrea Larson,Wisconsin, USA,F,2						
 Christophe Nonorgue,,Switzerland,M,1						
-Guillaume Calmettes,France,M,4						
-Stephen Redfern,Australia,M,1						
-David Limousin,France,M,2						
+Guillaume Calmettes,,France,M,4						
+Stephen Redfern,,Australia,M,1						
+David Limousin,,France,M,2						
 Nicky Spinks,England,UK,F,2
 John Kelly,Tennessee,USA,M,6						
 Damian Hall,England,UK,M,1						
@@ -12,13 +12,13 @@ Aaron Bradner,Virginia,USA,M,2
 Ed Thomas,South Dakota,USA,M,4			
 Nickademus de la Rosa,Arizona,USA,,1				
 Thomas van Woensel,,Belgium,M,1						
-Katie Wright,England,,UK,F,2					
+Katie Wright,England,UK,F,2					
 Melissa Robertson,,Australia,F,1						
 Aurélien Sanchez,,France,M,1						
 Tomokazu Ihara,,Japan,M,4						
 Jasmin Paris,England, UK,F,2						
-Rémy Jegard,France,M,6
-Karel Sabbe,Belgium,M,3					
+Rémy Jegard,,France,M,6
+Karel Sabbe,,Belgium,M,3					
 Harvey Lewis,Ohio, USA,M,2						
 Pavel Paloncý,,Czechia,M,3						
 Tom Hollins,England, UK,M,1						
