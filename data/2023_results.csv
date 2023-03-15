@@ -1,27 +1,27 @@
 Name,Nickname,Loop1,Loop2,Loop3,Loop4,Loop5,OnLap,Active
-Karel Sabbe,Tall Guy with Beard,08:17:54,,,,,2,Yes
-Damian Hall,Guy with Mohawk,08:17:55,,,,,2,Yes
-Jared Campbell,Guy with Glasses,08:17:56,,,,,2,Yes
-John Kelly,The Other Guy,08:17:57,08:17:57,,,,2,Yes
-Aurélien Sanchez,Nondescript Guy,08:22:14,,,,,2,Yes
-Guillaume Calmettes,Another Bearded Guy,08:22:15,,,,,2,Yes
-Aaron Bradner,Big Smiling Guy,08:33:11,,,,,2,Yes
-Jasmin Paris,Small European Woman,08:36:57,,,,,2,Yes
-Nickademus de la Rosa,Tan Guy,08:48:00,,,,,2,Yes
-,Guy With Big Grin,08:48:00,,,,,2,Yes
-,Another Bearded Guy,08:48:00,,,,,2,Yes
-Tomokazu Ihara,Japanese Laz,09:12:23,,,,,2,Yes
-,Dressed in Black,09:50:54,,,,,2,Yes
-,Foreign Guy,09:59:11,,,,,2,Yes
-,,10:23:00,,,,,2,Yes
-,,10:23:00,,,,,2,Yes
-,,10:23:00,,,,,2,Yes
-,,10:23:00,,,,,2,Yes
-,,10:23:00,,,,,2,Yes
-,Guy with Purple Beard,10:29:39,,,,,2,Yes
-,Legolas,10:46:60,,,,,2,Yes
-,,10:44:00,,,,,1,Yes
-,,10:44:00,,,,,1,Yes
-,,10:44:00,,,,,1,Yes
-,,10:44:00,,,,,1,Yes
-Ed Furtaw,Frozen,7:16:00,,,,,1,No
+Karel Sabbe,          Tall Guy with Beard,    08:17:54,,,,,2,Yes
+Damian Hall,          Guy with Mohawk,        08:17:55,,,,,2,Yes
+Jared Campbell,       Guy with Glasses,       08:17:56,,,,,2,Yes
+John Kelly,           The Other Guy,          08:17:57,,,,,2,Yes
+Aurélien Sanchez,     Nondescript Guy,        08:22:14,,,,,2,Yes
+Guillaume Calmettes,  Another Bearded Guy,    08:22:15,,,,,2,Yes
+Aaron Bradner,        Big Smiling Guy,        08:33:11,,,,,2,Yes
+Jasmin Paris,         Small European Woman,   08:36:57,,,,,2,Yes
+Nickademus de la Rosa,Tan Guy,                08:48:00,,,,,2,Yes
+,                     Guy With Big Grin,      08:48:00,,,,,2,Yes
+,                     Another Bearded Guy,    08:48:00,,,,,2,Yes
+Tomokazu Ihara,       Japanese Laz,           09:12:23,,,,,2,Yes
+,                     Dressed in Black,       09:50:54,,,,,2,Yes
+,                     Foreign Guy,            09:59:11,,,,,2,Yes
+,                     ,                       10:23:00,,,,,2,Yes
+,                     ,                       10:23:00,,,,,2,Yes
+,                     ,                       10:23:00,,,,,2,Yes
+,                     ,                       10:23:00,,,,,2,Yes
+,                     ,                       10:23:00,,,,,2,Yes
+,                     Guy with Purple Beard,  10:29:39,,,,,2,Yes
+,                     Legolas,                10:46:60,,,,,2,Yes
+,                     ,                       10:44:00,,,,,1,Yes
+,                     ,                       10:44:00,,,,,1,Yes
+,                     ,                       10:44:00,,,,,1,Yes
+,                     ,                       10:44:00,,,,,1,Yes
+Ed Furtaw,            Frozen,                 07:16:00,,,,,1,No
