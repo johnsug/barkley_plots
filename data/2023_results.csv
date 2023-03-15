@@ -1,65 +1,27 @@
-Runner,Lap,Start,End,Complete_Loop,Active
-Guy with Purple Beard,1,2023-03-14 09:54:00 EST,2023-03-14 20:29:39 EST,Yes,Yes
-Very Polite Guy,2,2023-03-14 20:17:00 EST,,No,Yes
-Very Polite Guy,1,2023-03-14 09:54:00 EST,2023-03-14 19:49:13 EST,Yes,Yes
-Talkative Guy,2,2023-03-14 20:17:00 EST,,No,Yes
-Talkative Guy,1,2023-03-14 09:54:00 EST,2023-03-14 19:49:12 EST,Yes,Yes
-Foreign Guy,2,2023-03-14 20:17:00 EST,,No,Yes
-Foreign Guy,1,2023-03-14 09:54:00 EST,2023-03-14 19:49:11 EST,Yes,Yes
-Dressed in Black,2,2023-03-14 20:17:00 EST,,No,Yes
-Dressed in Black,1,2023-03-14 09:54:00 EST,2023-03-14 19:44:54 EST,Yes,Yes
-Tomokazu Ihara / Japanese Laz (4),2,2023-03-14 20:17:00 EST,,No,Yes
-Tomokazu Ihara / Japanese Laz (4),1,2023-03-14 09:54:00 EST,2023-03-14 19:06:23 EST,Yes,Yes
-Tan Guy,2,2023-03-14 20:17:00 EST,,No,Yes
-Tan Guy,1,2023-03-14 09:54:00 EST, 2023-03-14 18:44:00 EST,Yes,Yes
-Another Bearded Guy,2,2023-03-14 20:17:00 EST,,No,Yes
-Another Bearded Guy,1,2023-03-14 09:54:00 EST, 2023-03-14 18:44:00 EST,Yes,Yes
-Guy With Big Grin,2,2023-03-14 18:50:00 EST,,No,Yes
-Guy With Big Grin,1,2023-03-14 09:54:00 EST, 2023-03-14 18:44:00 EST,Yes,Yes
-Tall Guy #2 w/ Black Beard,2,2023-03-14 18:36:00 EST,,No,Yes
-Tall Guy #2 w/ Black Beard,1,2023-03-14 09:54:00 EST,2023-03-14 18:16:57 EST,Yes,Yes
-Small European Woman / Jasmin Paris (2),2,2023-03-14 18:36:00 EST,,No,Yes
-Small European Woman / Jasmin Paris (2),1,2023-03-14 09:54:00 EST,2023-03-14 18:20:57 EST,Yes,Yes
-Big Smiling Guy,2,2023-03-14 18:36:00 EST,,No,Yes
-Big Smiling Guy,1,2023-03-14 09:54:00 EST,2023-03-14 18:16:57 EST,Yes,Yes
-Big Smiling Guy,2,2023-03-14 18:36:00 EST,,No,Yes
-Nondescript Guy,2,2023-03-14 18:36:00 EST,,No,Yes
-Nondescript Guy,1,2023-03-14 09:54:00 EST,2023-03-14 18:16:57 EST,Yes,Yes
-Guy With Glasses / Albert Herrero Casas (2),2,2023-03-14 18:27:00 EST,,No,Yes
-Guy With Glasses / Albert Herrero Casas (2),1,2023-03-14 09:54:00 EST,2023-03-14 18:16:56 EST,Yes,Yes
-Guy With Mohawk / Damian Hall (1),2,2023-03-14 18:27:00 EST,,No,Yes
-Guy With Mohawk / Damian Hall (1),1,2023-03-14 09:54:00 EST,2023-03-14 18:16:55 EST,Yes,Yes
-Tall Guy #1,2,2023-03-14 18:17:54 EST,,No,Yes
-Tall Guy #1,1,2023-03-14 09:54:00 EST,2023-03-14 18:16:54 EST,Yes,Yes
-Aaron Bradner (2),1,2023-03-14 09:54:00 EST,,No,Yes
-Andrea Kooiman (1),1,2023-03-14 09:54:00 EST,,No,Yes
-Andrea Larson (2),1,2023-03-14 09:54:00 EST,,No,Yes
-Aurélien Sanchez (1),1,2023-03-14 09:54:00 EST,,No,Yes
-Ben Yancey (2),1,2023-03-14 09:54:00 EST,,No,Yes
-Billy Green (2),1,2023-03-14 09:54:00 EST,,No,Yes
-Christophe Nonorgue (1),1,2023-03-14 09:54:00 EST,,No,Yes
-David Limousin (2),1,2023-03-14 09:54:00 EST,,No,Yes
-Dawn Greenwalt (1),1,2023-03-14 09:54:00 EST,,No,Yes
-Eoin Keith (2),1,2023-03-14 09:54:00 EST,,No,Yes
-Guillaume Calmettes (4),1,2023-03-14 09:54:00 EST,,No,Yes
-Harvey Lewis (2),1,2023-03-14 09:54:00 EST,,No,Yes
-Jared Campbell (7),1,2023-03-14 09:54:00 EST,,No,Yes
-Joe McConaughy (1),1,2023-03-14 09:54:00 EST,,No,Yes
-Johan Steene (4),1,2023-03-14 09:54:00 EST,,No,Yes
-John Kelly (6),1,2023-03-14 09:54:00 EST,,No,Yes
-Jon Eisen (1),1,2023-03-14 09:54:00 EST,,No,Yes
-Karel Sabbe (3),1,2023-03-14 09:54:00 EST,,No,Yes
-Katie Wright (2),1,2023-03-14 09:54:00 EST,,No,Yes
-Melissa Robertson (1),1,2023-03-14 09:54:00 EST,,No,Yes
-Nickademus de la Rosa (4),1,2023-03-14 09:54:00 EST,,No,Yes
-Nicky Spinks (2),1,2023-03-14 09:54:00 EST,,No,Yes
-Pavel Paloncý (3),1,2023-03-14 09:54:00 EST,,No,Yes
-Rémy Jégard (6),1,2023-03-14 09:54:00 EST,,No,Yes
-Stephen Redfern (1),1,2023-03-14 09:54:00 EST,,No,Yes
-Thomas van Woensel (1),1,2023-03-14 09:54:00 EST,,No,Yes
-Tom Hollins (1),1,2023-03-14 09:54:00 EST,,No,Yes
-Someone from Italy* (1),1,2023-03-14 09:54:00 EST,,No,Yes
-Someone from Norway* (1),1,2023-03-14 09:54:00 EST,,No,Yes
-Someone from North Carolina* (1),1,2023-03-14 09:54:00 EST,,No,Yes
-Someone from Michigan* (1),1,2023-03-14 09:54:00 EST,,No,Yes
-Ed Furtaw (22),1,2023-03-14 09:54:00 EST,2023-03-14 18:11:00 EST,Yes,No
+Name,Nickname,Loop1,Loop2,Loop3,Loop4,Loop5,OnLap,Active
+Karel Sabbe,Tall Guy with Beard,08:17:54,,,,,2,Yes
+Damian Hall,Guy with Mohawk,08:17:55,,,,,2,Yes
+Jared Campbell,Guy with Glasses,08:17:56,,,,,2,Yes
+John Kelly,The Other Guy,08:17:57,08:17:57,,,,2,Yes
+Aurélien Sanchez,Nondescript Guy,08:22:14,,,,,2,Yes
+Guillaume Calmettes,Another Bearded Guy,08:22:15,,,,,2,Yes
+Aaron Bradner,Big Smiling Guy,08:33:11,,,,,2,Yes
+Jasmin Paris,Small European Woman,08:36:57,,,,,2,Yes
+Nickademus de la Rosa,Tan Guy,08:48:00,,,,,2,Yes
+,Guy With Big Grin,08:48:00,,,,,2,Yes
+,Another Bearded Guy,08:48:00,,,,,2,Yes
+Tomokazu Ihara,Japanese Laz,09:12:23,,,,,2,Yes
+,Dressed in Black,09:50:54,,,,,2,Yes
+,Foreign Guy,09:59:11,,,,,2,Yes
+,,10:23:00,,,,,2,Yes
+,,10:23:00,,,,,2,Yes
+,,10:23:00,,,,,2,Yes
+,,10:23:00,,,,,2,Yes
+,,10:23:00,,,,,2,Yes
+,Guy with Purple Beard,10:29:39,,,,,2,Yes
+,Legolas,10:46:60,,,,,2,Yes
+,,10:44:00,,,,,1,Yes
+,,10:44:00,,,,,1,Yes
+,,10:44:00,,,,,1,Yes
+,,10:44:00,,,,,1,Yes
+Ed Furtaw,Frozen,,,,,,,1,No
