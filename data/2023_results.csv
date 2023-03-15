@@ -1,10 +1,18 @@
 Runner,Lap,Start,End,Complete_Loop,Active
+Guy with Purple Beard,1,2023-03-14 09:54:00 EST,2023-03-14 20:29:39 EST,Yes,Yes
+Very Polite Guy,2,2023-03-14 20:17:00 EST,,No,Yes
 Very Polite Guy,1,2023-03-14 09:54:00 EST,2023-03-14 19:49:13 EST,Yes,Yes
+Talkative Guy,2,2023-03-14 20:17:00 EST,,No,Yes
 Talkative Guy,1,2023-03-14 09:54:00 EST,2023-03-14 19:49:12 EST,Yes,Yes
+Foreign Guy,2,2023-03-14 20:17:00 EST,,No,Yes
 Foreign Guy,1,2023-03-14 09:54:00 EST,2023-03-14 19:49:11 EST,Yes,Yes
+Dressed in Black,2,2023-03-14 20:17:00 EST,,No,Yes
 Dressed in Black,1,2023-03-14 09:54:00 EST,2023-03-14 19:44:54 EST,Yes,Yes
+Tomokazu Ihara / Japanese Laz (4),2,2023-03-14 20:17:00 EST,,No,Yes
 Tomokazu Ihara / Japanese Laz (4),1,2023-03-14 09:54:00 EST,2023-03-14 19:06:23 EST,Yes,Yes
+Tan Guy,2,2023-03-14 20:17:00 EST,,No,Yes
 Tan Guy,1,2023-03-14 09:54:00 EST, 2023-03-14 18:44:00 EST,Yes,Yes
+Another Bearded Guy,2,2023-03-14 20:17:00 EST,,No,Yes
 Another Bearded Guy,1,2023-03-14 09:54:00 EST, 2023-03-14 18:44:00 EST,Yes,Yes
 Guy With Big Grin,2,2023-03-14 18:50:00 EST,,No,Yes
 Guy With Big Grin,1,2023-03-14 09:54:00 EST, 2023-03-14 18:44:00 EST,Yes,Yes
@@ -17,14 +25,13 @@ Big Smiling Guy,1,2023-03-14 09:54:00 EST,2023-03-14 18:16:57 EST,Yes,Yes
 Big Smiling Guy,2,2023-03-14 18:36:00 EST,,No,Yes
 Nondescript Guy,2,2023-03-14 18:36:00 EST,,No,Yes
 Nondescript Guy,1,2023-03-14 09:54:00 EST,2023-03-14 18:16:57 EST,Yes,Yes
-Guy With Glasses,2,2023-03-14 18:27:00 EST,,No,Yes
-Guy With Glasses,1,2023-03-14 09:54:00 EST,2023-03-14 18:16:56 EST,Yes,Yes
+Guy With Glasses / Albert Herrero Casas (2),2,2023-03-14 18:27:00 EST,,No,Yes
+Guy With Glasses / Albert Herrero Casas (2),1,2023-03-14 09:54:00 EST,2023-03-14 18:16:56 EST,Yes,Yes
 Guy With Mohawk / Damian Hall (1),2,2023-03-14 18:27:00 EST,,No,Yes
 Guy With Mohawk / Damian Hall (1),1,2023-03-14 09:54:00 EST,2023-03-14 18:16:55 EST,Yes,Yes
 Tall Guy #1,2,2023-03-14 18:17:54 EST,,No,Yes
 Tall Guy #1,1,2023-03-14 09:54:00 EST,2023-03-14 18:16:54 EST,Yes,Yes
 Aaron Bradner (2),1,2023-03-14 09:54:00 EST,,No,Yes
-Albert Herrero Casas (2),1,2023-03-14 09:54:00 EST,,No,Yes
 Andrea Kooiman (1),1,2023-03-14 09:54:00 EST,,No,Yes
 Andrea Larson (2),1,2023-03-14 09:54:00 EST,,No,Yes
 Aurélien Sanchez (1),1,2023-03-14 09:54:00 EST,,No,Yes
